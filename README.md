@@ -1,5 +1,5 @@
-# Bitfication
-Bitfication powers bitfication.com, a bitcoin trading platform. It is:
+# NoirEx
+NoirEx powers NoirEx.com, a bitcoin trading platform. It is:
 
 * Open Source,
 * Based on Ruby on Rails,
@@ -7,7 +7,7 @@ Bitfication powers bitfication.com, a bitcoin trading platform. It is:
 * Multi-currency.
 
 # Installation
-Bitfication uses Ubuntu Linux.
+NoirEx uses Ubuntu Linux.
 
 # Requirements
 Run this commands as 'root' user, change only when required.
@@ -33,11 +33,11 @@ Run this commands as 'root' user, change only when required.
 * Check out sources with git
 
         su - webapp
-        git clone git@bitbucket.org:tmartinx/bitfication.git
+        git clone git@bitbucket.org:tmartinx/NoirEx.git
 
 * Get into the sources directory
 
-        cd ~/bitfication
+        cd ~/NoirEx
 
 * Compile and install the required dependencies
 
@@ -86,7 +86,7 @@ All are welcome, improvements, fixes and translations (the string extraction bou
  * Pull requests should apply cleanly on top of `master`, rebase if necessary
 
 # Updates
-Bitfication team.
+NoirEx team.
 
  * Thiago Martins updated this README.md
 
